@@ -1,0 +1,51 @@
+{
+  "name": "sendmark-mailman",
+  "description": "SendMark mail parsing robot.",
+  "version": "0.1.0",
+  "homepage": "",
+  "private:": "true",
+  "author": {
+    "name": "Timothy C. Kendall",
+    "email": "timkendall18@gmail.com"
+  },
+  "company": {
+    "name": "SendMark",
+    "product": "Mailman",
+    "homepage": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timkendall/sendmark-mailman"
+  },
+  "main": "./lib/index",
+  "dependencies": {
+
+  },
+  "engines": {
+    "node": ">= 0.4.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "sendmark",
+    "email",
+    "parse",
+    "parsing",
+    "read"
+  ],
+  "readme": "",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": ""
+  },
+  "_id": "sendmark-mailman@0.1.0",
+  "dist": {
+    "shasum": ""
+  },
+  "_from": "sendmark-mailman@~0.1.0",
+  "_resolved": ""
+}
