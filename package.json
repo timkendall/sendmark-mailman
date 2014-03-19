@@ -19,7 +19,7 @@
   },
   "main": "./lib/index",
   "dependencies": {
-
+    "async": "~0.2.10"
   },
   "engines": {
     "node": ">= 0.4.0"
